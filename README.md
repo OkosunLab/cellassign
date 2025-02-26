@@ -1,4 +1,4 @@
-# cellassign
+# cellassign - forked to make it work
 
 [![Build Status](https://travis-ci.com/Irrationone/cellassign.svg?token=HqeTkKNZ9uXDwGpFxagC&branch=master)](https://travis-ci.com/Irrationone/cellassign) [![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg)](http://bioconda.github.io/recipes/r-cellassign/README.html)
 
